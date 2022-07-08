@@ -34,3 +34,22 @@ The aim was to build up a game engine for a text adventure game, which also allo
 #### Ations
 
 ```
+-<action>
+    -<triggers>
+        <keyword>chop</keyword>
+        <keyword>cut</keyword>
+        <keyword>cutdown</keyword>
+    </triggers>
+    -<subjects>
+        <entity>tree</entity>
+        <entity>axe</entity>
+    </subjects>
+    -<consumed>
+        <entity>tree</entity>
+    </consumed>
+    -<produced>
+        <entity>log</entity>
+    </produced>
+    <narration>You cut down the tree with the axe</narration>
+</action>
+```
