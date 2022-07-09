@@ -20,10 +20,36 @@ The aim was to build up a game engine for a text adventure game, which also allo
 
 <a class="return" href="#top"> 《TOP》 </a>
 
-### User interface
+### Player interface
 
-- 
+Players are able to interact with some entities.
+- look: describes all the items and characters in their current place
+- get/drop {item}: pick up / put down an item 
+- goto: moves the player to the next location
+- inventory: lists all the items currently carried by the player
 
+```
+Mike:> look
+You are in A log cabin in the woods. You can see:
+A bottle of magic potion
+A razor sharp axe
+A silver coin
+A locked wooden trapdoor in the floor
+You can access from here:
+forest
+
+Mike:> get axe
+You picked up a axe
+
+Mike:> goto forest
+You are in A deep dark forest. You can see:
+A rusty old key
+A tall pine tree
+You can access from here:
+cabin
+riverbank
+
+```
 
 ### Game Design
 
