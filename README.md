@@ -7,6 +7,7 @@ The aim was to build up a game engine for a text adventure game, which also allo
 <p></p>
 
 <a class="outlines" href="#program-design">______ Program Design</a>
+
 <a class="outlines" href="#game-design">______ Game Design</a>
 <p></p>
 
