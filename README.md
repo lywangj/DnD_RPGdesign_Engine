@@ -7,7 +7,7 @@ The aim was to build up a game engine for a text adventure game, which also allo
 <p></p>
 
 <a class="outlines" href="#program-design">______ Program Design</a>
-
+<a class="outlines" href="#game-design">______ Game Design</a>
 <p></p>
 
 
@@ -50,9 +50,7 @@ cabin
 riverbank
 
 ```
-
-### Game Design
-
+<h3 id="game-design"> Game Design </h3>
 
 #### Entities
 
@@ -90,3 +88,5 @@ riverbank
     <narration>You cut down the tree with the axe</narration>
 </action>
 ```
+
+<a class="return" href="#top"> 《TOP》 </a>
