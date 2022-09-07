@@ -1,6 +1,6 @@
 <h2 id="top"> DnD_RPGdesign </h2>
 
-Coursework files for Object Oriented Programming Unit undertaken at University of Bristol. Grage Achieved - 80% (2:1)
+Coursework files for Object Oriented Programming Unit undertaken at University of Bristol. Grage Achieved - 80% (1st)
 
 The aim was to build up a game engine for a text adventure game, which also allows game designer to construct their own game.
 
